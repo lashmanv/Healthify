@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HealthiFy</string>
+    <string name="title_activity_maps">HealthiFy</string>
+    <string name="find_nearby_hospitals">Find nearby hospitals</string>
+    <string name="na">NA</string>
+    <string name="nb">NA</string>
+    <string name="nc">NA</string>
+    <string name="nd">NA</string>
+    <string name="ne">NA</string>
+    <string name="call">CALL</string>
+    <string name="nf">NA</string>
+</resources>
